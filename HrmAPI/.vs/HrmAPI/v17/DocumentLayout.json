@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TFP\\HrmAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|d:\\tfp\\hrmapi\\hrmapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|solutionrelative:hrmapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|d:\\tfp\\hrmapi\\hrmapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|solutionrelative:hrmapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|d:\\tfp\\hrmapi\\hrmapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|solutionrelative:hrmapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|d:\\tfp\\hrmapi\\hrmapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|solutionrelative:hrmapi\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|d:\\tfp\\hrmapi\\hrmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D8C687-EADA-4957-A276-6CD0F5181E65}|HrmAPI\\HrmAPI.csproj|solutionrelative:hrmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "D:\\TFP\\HrmAPI\\HrmAPI\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "HrmAPI\\Data\\ApiContext.cs",
+              "ToolTip": "D:\\TFP\\HrmAPI\\HrmAPI\\Data\\ApiContext.cs",
+              "RelativeToolTip": "HrmAPI\\Data\\ApiContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:29:31.604Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\TFP\\HrmAPI\\HrmAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HrmAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\TFP\\HrmAPI\\HrmAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HrmAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:05:23.243Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\TFP\\HrmAPI\\HrmAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HrmAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\TFP\\HrmAPI\\HrmAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HrmAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:24:58.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TFP\\HrmAPI\\HrmAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HrmAPI\\Program.cs",
+              "ToolTip": "D:\\TFP\\HrmAPI\\HrmAPI\\Program.cs",
+              "RelativeToolTip": "HrmAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:19:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\TFP\\HrmAPI\\HrmAPI\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "HrmAPI\\Models\\Employees.cs",
+              "ToolTip": "D:\\TFP\\HrmAPI\\HrmAPI\\Models\\Employees.cs",
+              "RelativeToolTip": "HrmAPI\\Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:21:22.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
